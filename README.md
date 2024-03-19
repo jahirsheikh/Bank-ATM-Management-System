@@ -44,5 +44,5 @@ Exit ADMIN
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/jahirsheikh/Bank-ATM-Management-System/blob/main/Screenshots/Screenshot%20(10).png)
 
